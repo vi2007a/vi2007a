@@ -13,7 +13,7 @@
 Hi , I Am Sreevidya
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">A Data Science and Machine learning enthusiast. 
 I love working with various type of data. I have created this profile for the  purpose of self learning.
-- :telescope: I’m working as an experienced Data Analyst with a demonstrated history of working on developing machine learning projects. Skilled in Python, Machine Learning, Deep Learning, NLP, PLSQL . Highly interest in learning new cutting-edge technologies in the field of AI.
+- :telescope: I’m working as an experienced Data Analyst with a demonstrated history of working on developing machine learning projects. Skilled in Python, Machine Learning, Deep Learning, NLP, PLSQL . Highly interest in learning new cutting-edge technologies in the field of AI. I have worked on various projects in my profile , some are associated with data cleaning and preprocessing, some are Visualization projects using seaborn ,matplotlib. Some based on ML and NLP ,Come take  a peek!
 - :zap: In my free time, I like reading tech articles ,blogs etc
 
 
