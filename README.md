@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me :
 
 Hi , I Am Sreevidya
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Data analyst and Machine learning enthusiast. 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Data Scientist and Machine learning enthusiast. 
 I have created this profile for the  purpose of self learning.
 - :telescope: I’m working as an experienced Data Analyst currently , Skilled in Python and its Libraries. 
 Highly interest in learning new cutting-edge technologies in the field of AI. I have created couple of  projects in different technology in my repository, some are associated with data cleaning and preprocessing using Pandas, NumPy. some are Visualization projects using seaborn, matplotlib. To develop my knowldge further i have build few  end to end  Mechine learning concepts as well. Come take  a peek!!
