@@ -42,8 +42,7 @@ Highly interest in learning new cutting-edge technologies in the field of AI. I 
 
 ### : Most used Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi2007a&layout=compact)](https://github.com/vi2007a/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi2007a&layout=compact"/>
 
 
 
