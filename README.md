@@ -16,7 +16,7 @@ I have created this profile for the  purpose of self learning.
 - :telescope: I’m working as an experienced Data Analyst currently , Skilled in Python and its Libraries. 
 Highly interest in learning new cutting-edge technologies in the field of AI. I have created couple of  projects in different technology in my repository, some are associated with data cleaning and preprocessing using Pandas, NumPy. some are Visualization projects using seaborn, matplotlib. To develop my knowldge further i have build few  end to end  Mechine learning concepts as well. Come take  a peek!!
 
- - :eyes: You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/srya-s-936580b2)
+ - :eyes: You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/srya-s-936580b2/)
 &nbsp;
 
 - :zap: In my free time, I love spending time with my family :heart: :family: , reading blogs etc
