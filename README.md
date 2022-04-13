@@ -20,7 +20,7 @@ Highly interest in learning new cutting-edge technologies in the field of AI. I 
 &nbsp;
 
 - :zap: In my free time, I love spending time with my family :heart: :family: , reading blogs etc
-- :mailbox_with_mail: mail me to sreevidya.s@outlook.com
+- :mailbox_with_mail: mail me to itsvidya@outlook.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -42,7 +42,7 @@ Highly interest in learning new cutting-edge technologies in the field of AI. I 
 
 ### : Most used Languages :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi2007a&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi2007a&layout=compact)](https://github.com/vi2007a/github-readme-stats)
 
 
 
