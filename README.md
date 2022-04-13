@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me 
 
 Hi , I Am Sreevidya
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Data Scientist and Machine learning enthusiast. 
@@ -23,7 +23,7 @@ Highly interest in learning new cutting-edge technologies in the field of AI. I 
 - :mailbox_with_mail: mail me to itsvidya@outlook.com
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -36,11 +36,11 @@ Highly interest in learning new cutting-edge technologies in the field of AI. I 
   
   </div>
   
-### :fire: My Stats :
+### :fire: My Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vi2007a&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### : Most used Languages :
+### Most used Languages :
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi2007a&layout=compact"/>
 
