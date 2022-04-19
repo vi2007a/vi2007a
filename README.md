@@ -36,9 +36,7 @@ Highly interest in learning new cutting-edge technologies in the field of AI. I 
   
   </div>
   
-### :fire: My Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vi2007a&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Most used Languages :
 
