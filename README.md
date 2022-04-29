@@ -13,8 +13,9 @@
 Hi , I Am Sreevidya
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Data Scientist and Machine learning enthusiast. 
 I have created this profile for the  purpose of self learning.
-- :telescope: I’m working as an experienced Data Analyst currently , Skilled in Python and its Libraries. 
-Highly interest in learning new cutting-edge technologies in the field of AI. I have created couple of  projects in different technology in my repository, some are associated with data cleaning and preprocessing using Pandas, NumPy. some are Visualization projects using seaborn, matplotlib. To develop my knowldge further i have build few  end to end  Mechine learning concepts as well. Come take  a peek!!
+- :telescope: I’m working as a Data Scientist in UK. I have hands on experience in Python and its Libraries. 
+Highly interest in learning new cutting-edge technologies in the field of Machine Learning & AI. I have developed couple of  projects in different technology in my repository. 
+Few projects completetly on Data collection, data cleaning and preprocessing using Pandas, NumPy . Some are Visualization projects using seaborn, matplotlib. To develop my knowldge further i have build few  end to end  Mechine learning projects as well, I have used different ML algorithms  and Python to develop my small ML projects. Come take  a peek!!!
 
  - :eyes: You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/srya-s-936580b2/)
 &nbsp;
