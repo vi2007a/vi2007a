@@ -13,9 +13,7 @@
 Hello Everyone , I Am Sreevidya
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Data Scientist and Machine learning enthusiast. 
 I have created this profile for the  purpose of self learning.
-- :telescope: I’m working as a Data Science Engineer in UK. I have hands on experience in Python and its Libraries and SQL. 
-Highly interest in learning new cutting-edge technologies in the field of Machine Learning & AI. I have developed couple of  projects in different technology in my repository. 
-Few projects completetly on Data collection, data cleaning and preprocessing using Pandas, NumPy . Some are Visualization projects using seaborn, matplotlib. To develop my knowldge further i have build few  end to end  Mechine learning projects as well, I have used different ML algorithms  and Python to develop my small ML projects. Recently i have  got special interest in  Big data and Azure so working on few projects in azure, will be updating it soon.  Come take  a peek!!!
+- :telescope: I’m working as a Data Science Engineer in UK. Current technologies im using is Python,SQL and AWS and previous working experience with Microsoft Azure.I have hands on experience in Python and its Libraries.Highly interest in learning new cutting-edge technologies in the field of Machine Learning & AI. I have developed couple of  projects in different technology in my repository. Few projects completetly on Data collection, data cleaning and preprocessing using Pandas, NumPy . Some are Visualization projects using seaborn, matplotlib. To develop my knowldge further i have build few  end to end  Machine learning projects as well, I have used different ML algorithms  and Python to develop my small ML projects. I also use Azure  and AWS technologies in my project. I will be adding  few respository for Azure and Aws and uploading  it soon.  Come take  a peek!!!
 
  - :eyes: You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/srya-s-936580b2/)
 &nbsp;
