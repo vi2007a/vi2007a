@@ -11,9 +11,9 @@
 ### :woman_technologist: About Me 
 
 Hello Everyone , I Am Sreevidya
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">currently working in a data project, pg is python . Always keen to learn new concepts. 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Always keen to learn new Technologies and  concepts. 
 
-- :telescope:Experience working on Python,SQL and  Cloud platforms such as AWS & Azure.
+- :telescope:Good knowldge and experience working on  Cloud platforms such as AWS .
 - Highly interest in learning new cutting-edge technologies in the field of Machine Learning & AI. I have developed couple of  projects in different technology in my repository. Few projects completetly on Data collection, data cleaning and preprocessing using Pandas, NumPy. Some are Visualization projects using seaborn, matplotlib. To develop my knowldge further i have build few  end to end  Machine learning projects as well, I have used different ML algorithms  and Python to develop my small ML projects. I also use Azure and AWS technologies in my project. I will be adding  few respository for Azure and Aws and uploading  it soon.  Come take  a peek!!!
 
  - :eyes: You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/srya-s-936580b2/)
